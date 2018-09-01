@@ -9,12 +9,12 @@ Before diving headfirst into programming, I was a Marketing Manager for a local 
 ### Recent Projects
 There are lots of words that go here and eventually I'll flesh this out
 
-Building Post-It
+Building Post-It and some words go here!
 
 Looking for my new home
 My current adventure is searching for a team I can build great products with. Please reach out if you would like to talk more!
 
-### Getting in touch:
+### Contact Josh:
 
 <div class="button-container">
   <a href="https://github.com/joshcnelson" class="fab fa-github fa-2x"></a>

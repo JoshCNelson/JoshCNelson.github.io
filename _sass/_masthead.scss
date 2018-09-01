@@ -14,7 +14,12 @@
   color: $gray-4;
 
   a {
-    color: inherit;
+    color: $dark-blue;
+  }
+
+  a:hover,
+  a:focus {
+    color: $red;
   }
 
   small {

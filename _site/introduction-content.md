@@ -14,7 +14,7 @@ Building Post-It
 Looking for my new home
 My current adventure is searching for a team I can build great products with. Please reach out if you would like to talk more!
 
-### Getting in touch:
+### Contact Josh:
 
 <div class="button-container">
   <a href="https://github.com/joshcnelson" class="fab fa-github fa-2x"></a>
