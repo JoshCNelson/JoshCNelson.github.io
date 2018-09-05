@@ -2,13 +2,15 @@
 layout: page
 title: Projects
 ---
+### Plinko.js
 
 
-Here are some words where I can talk about projects
+![](/assets/gameplay.gif)
 
-### Post-It
-Post-It is a Reddit clone built with Ruby on Rails
+<a target='_blank' href='https://github.com/JoshCNelson/postit-template'>Link to Github Repository for Plinko.js</a>
 
-![](/assets/post-it.jpg)
+### Reaction
+
+![](https://s1.gifyu.com/images/trello2.gif)
 
 <a target='_blank' href='https://github.com/JoshCNelson/postit-template'>Link to Github Repository</a>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hello!
+title: About Me
 ---
 
 {% include_relative introduction-content.md %}

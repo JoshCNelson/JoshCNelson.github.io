@@ -10,6 +10,31 @@
   margin-right: auto;
 }
 
+.navigation {
+  padding-top: 15px;
+}
+
+header {
+  border-bottom: 1px solid $gold;
+  //background-color: #00008b;
+  //background-image: linear-gradient(to bottom, #28569d, #006fa3, #007f80, #088748, #7e8618);
+  
+  //background-image: linear-gradient(to bottom, #28569d, #005d8a, #005b5c, #07522c, #40450d);
+  //background-image: linear-gradient(to bottom, #1f4074, #004a6d, #004d4e, #094c28, #40450d);
+
+  //background-image: linear-gradient(to top, #28569d, #45669f, #5e75a0, #7585a0, #8d94a0);
+  
+  
+  background-image: linear-gradient(to top, #28569d, #3f6199, #526b94, #65758f, #777e89);
+  background-image: linear-gradient(to top, #28569d, #365c99, #426296, #4e6891, #5a6e8d);
+  background-image: linear-gradient(to top, #10408a, #264c8c, #38578d, #49638d, #5a6e8d);
+  margin-bottom: 20px;
+}
+
 footer {
-  margin-bottom: 2rem;
+  border-top: 1px solid $gold;
+  padding: 40px 0;
+  text-align: center;
+  background: #464444;// gainsboro; // #414141 dark grey (turtle db)
+  // #464444
 }

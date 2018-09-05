@@ -20,7 +20,6 @@ baseurl:             ""
 # Structure
 pages_list:
   Introduction: '/introduction/'
-  Blog: '/archive/'
   Projects: '/projects/'
   Resume: '/assets/joshcdnelson_resume.pdf'
 

@@ -5,8 +5,20 @@
 
   <body>
 
-    <div class="container content">
-      <header class="masthead">
+    <div>
+      <header>
+        <div class="navigation">
+          <nav>
+            <ul>
+              {% for page in site.pages_list %}
+              <li>
+                <a href="{{ page[1] }}">{{ page[0] }}</a>
+              </li>
+              {% endfor %}  
+            </ul>
+          </nav>
+        </div>
+        <!--
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 
@@ -14,15 +26,27 @@
             &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
           {% endfor %}  
         </h3>
+        -->
+        <div class='masthead'>
+          <img class="headshot" src="../assets/josh.jpg" alt="A picture of Josh" />
+          <h2>Josh Nelson</h2>
+          <p>Software Engineer</p>
+        </div>
       </header>
 
-      <main>
+      <main class="container content">
         {{ content }}
       </main>
 
       <footer class="footer">
+        <div class="button-container">
+          <a href="https://github.com/joshcnelson" class="fab fa-github fa-2x"></a>&nbsp;
+          <a href="https://www.linkedin.com/in/joshcdnelson/" class="fab fa-linkedin fa-2x"></a>&nbsp;
+          <a href="mailto:joshcdnelson@gmail.com" class="fa fa-envelope fa-2x"></a>
+        </div> 
+        
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+          &copy; 2018 Josh Nelson. All rights reserved.
         </small>
       </footer>
     </div>

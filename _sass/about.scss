@@ -1,8 +1,95 @@
+.navigation ul {
+  text-align: center;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.navigation li {
+  display: inline-block;
+  padding: 0 5px;
+}
+
+.navigation a {
+  font-size: 1.2rem;
+  color: $gold;
+  text-shadow: 2px 2px #000;
+}
+
+.navigation a:hover {
+  color: white;
+}
+
+.container {
+  background: $body-bg;
+}
+
+
+/* header */
+
+header p {
+  color: $gold;
+}
+
+
+/* main */
+
+main img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* masthead */
+.masthead {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.masthead h2 {
+  color: $gold;
+  font-size: 2.25rem;
+  margin: 0;
+  text-shadow: 2px 2px #000;
+}
+
+.masthead p {
+  font-size: 1.25rem;
+  text-shadow: 2px 2px #000;
+}
+
 .headshot {
-  max-width: 100px;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 200px;
   border-radius: 100%;
+  //border: 2px solid $gold;
 }
 
 .headshot-container {
   float: right;  
+}
+
+/* page title */
+
+.page-title {
+  color: black;
+}
+
+/* footer */
+
+footer a {
+  color: $white;
+}
+
+footer a:hover {
+  color: $white;
+}
+
+footer ul {
+  padding: 0 5px;
+}
+
+footer small {
+  font-size: .75rem;
+  color: $white;
 }

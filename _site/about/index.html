@@ -21,24 +21,48 @@
 
   <body>
 
-    <div class="container content">
-      <header class="masthead">
+    <div>
+      <header>
+        <div class="navigation">
+          <nav>
+            <ul>
+              
+              <li>
+                <a href="/introduction/">Introduction</a>
+              </li>
+              
+              <li>
+                <a href="/projects/">Projects</a>
+              </li>
+              
+              <li>
+                <a href="/assets/joshcdnelson_resume.pdf">Resume</a>
+              </li>
+                
+            </ul>
+          </nav>
+        </div>
+        <!--
         <h3 class="masthead-title">
           <a href="/" title="Home">Josh Nelson</a>
 
           
             &nbsp;&nbsp;&nbsp;<small><a href="/introduction/">Introduction</a></small>
           
-            &nbsp;&nbsp;&nbsp;<small><a href="/archive/">Blog</a></small>
-          
             &nbsp;&nbsp;&nbsp;<small><a href="/projects/">Projects</a></small>
           
             &nbsp;&nbsp;&nbsp;<small><a href="/assets/joshcdnelson_resume.pdf">Resume</a></small>
             
         </h3>
+        -->
+        <div class='masthead'>
+          <img class="headshot" src="../assets/josh.jpg" alt="A picture of Josh" />
+          <h2>Josh Nelson</h2>
+          <p>Software Engineer</p>
+        </div>
       </header>
 
-      <main>
+      <main class="container content">
         <article class="page">
   <h1 class="page-title">About</h1>
   <p class="message">
@@ -76,8 +100,14 @@
       </main>
 
       <footer class="footer">
+        <div class="button-container">
+          <a href="https://github.com/joshcnelson" class="fab fa-github fa-2x"></a>&nbsp;
+          <a href="https://www.linkedin.com/in/joshcdnelson/" class="fab fa-linkedin fa-2x"></a>&nbsp;
+          <a href="mailto:joshcdnelson@gmail.com" class="fa fa-envelope fa-2x"></a>
+        </div> 
+        
         <small>
-          &copy; <time datetime="2018-05-14T11:17:31-07:00">2018</time>. All rights reserved.
+          &copy; 2018 Josh Nelson. All rights reserved.
         </small>
       </footer>
     </div>
