@@ -15,13 +15,17 @@ body {
 }
 
 html {
-  font-family: $root-font-family;
+  font-family: $root-font-family;//"Lato";//$root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
 
   @media (min-width: $large-breakpoint) {
     font-size: $large-font-size;
   }
+}
+
+header {
+  font-family: "Raleway", $root-font-family;
 }
 
 body {
