@@ -21,7 +21,7 @@ baseurl:             ""
 pages_list:
   Introduction: '/introduction/'
   Projects: '/projects/'
-  Resume: '/assets/joshcdnelson_resume.pdf'
+  Resume: '/assets/resume.pdf'
 
 
 # Assets
