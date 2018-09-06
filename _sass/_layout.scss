@@ -15,7 +15,7 @@
 }
 
 header {
-  border-bottom: 1px solid $gold;
+  border-bottom: 2px solid $gold;
   //background-color: #00008b;
   //background-image: linear-gradient(to bottom, #28569d, #006fa3, #007f80, #088748, #7e8618);
   
@@ -27,7 +27,7 @@ header {
   
   //background-image: linear-gradient(to top, #28569d, #3f6199, #526b94, #65758f, #777e89);
   //background-image: linear-gradient(to top, #28569d, #365c99, #426296, #4e6891, #5a6e8d);
-  //background-image: linear-gradient(to top, #10408a, #264c8c, #38578d, #49638d, #5a6e8d);
+  background-image: linear-gradient(to top, #10408a, #264c8c, #38578d, #49638d, #5a6e8d);
   background-color:#10408a;
   margin-bottom: 20px;
 }

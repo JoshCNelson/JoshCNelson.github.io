@@ -13,13 +13,13 @@ permalink:           pretty
 # Setup
 title:               Josh Nelson
 tagline:             This is my tagline
-url:                 http://joshcnelson.github.io/
+url:                 http://joshcnelson.github.io
 baseurl:             ""
 
 
 # Structure
 pages_list:
-  Introduction: '/introduction/'
+  About: '/about/'
   Projects: '/projects/'
   Resume: '/assets/resume.pdf'
 
