@@ -15,3 +15,63 @@ Recently, I co-created an open-source multiplayer real-time browser-based physic
 ![](/assets/gameplay.gif)
 
 <a href="https://joshcnelson.github.io/projects">Click here to see more projects</a>
+
+## Skills
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Testing</th>
+    <th>Misc</th>
+  </tr>
+
+  <tr>
+    <td>Ruby</td>
+    <td>Javascript</td>
+    <td>Minitest</td>
+    <td>Git</td>
+  </tr>
+
+  <tr>
+    <td>Rails</td>
+    <td>React</td>
+    <td>Jasmine</td>
+    <td>RESTful APIs</td>
+  </tr>
+
+  <tr>
+    <td>Node</td>
+    <td>Redux</td>
+    <td>Jest</td>
+    <td><a href="http://plinkojs.com/about#websockets">WebSockets</a></td>
+  </tr>
+
+  <tr>
+    <td>SQL</td>
+    <td>Backbone</td>
+    <td></td>
+    <td><a href="http://plinkojs.com/about#network-architecture">Networked gaming</a></td>
+  </tr>
+
+  <tr>
+    <td>Sinatra</td>
+    <td>jQuery</td>
+    <td></td>
+    <td><a href="http://plinkojs.com/about#syncing-state">State synchronization</a></td>
+  </tr>
+
+  <tr>
+    <td>Express</td>
+    <td>CSS</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>HTML5</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
