@@ -24,7 +24,7 @@ Recently, I co-created an open-source multiplayer real-time browser-based physic
     <th>Backend</th>
     <th>Frontend</th>
     <th>Testing</th>
-    <th>Misc</th>
+    <th>Miscellaneous</th>
   </tr>
 
   <tr>
