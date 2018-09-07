@@ -80,6 +80,34 @@ main img {
   color: black;
 }
 
+/* table */
+
+table,
+table tr, 
+table td,
+table th {
+  border: none;
+}
+
+tbody tr:nth-child(odd) td, 
+tbody tr:nth-child(odd) th {
+  background-color: $body-bg;
+}
+
+table td,
+table th {
+  text-align: center;
+  padding: 0;
+}
+
+table th {
+  font-size: 1rem;
+}
+
+table td {
+  font-size: .75rem;
+  width: 175px;
+}
 /* footer */
 
 footer a {
