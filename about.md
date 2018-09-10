@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hello! I'm a software engineer with 2 years of programming experience working with technologies such as React, Node, Rails, and Backbone. I enjoy tackling challenging problems and working with others to build robust systems.
+Hello! I'm a software engineer with a management background from Portland State University. I have over 2 years of programming experience working with technologies such as React, Node, Rails, and Backbone. I enjoy tackling challenging problems and working with others to build robust systems.
 
 For an example of my work, check out my latest project, <a href="http://plinkojs.com">Plinko.js</a>.
 ## Recent Projects
