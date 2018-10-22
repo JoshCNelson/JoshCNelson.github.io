@@ -19,9 +19,9 @@ baseurl:             ""
 
 # Structure
 pages_list:
-  About: '/about/'
-  Projects: '/projects/'
-  Resume: '/assets/resume.pdf'
+  # About: '/about/'
+  # Projects: '/projects/'
+  # Resume: '/assets/resume.pdf'
 
 
 # Assets

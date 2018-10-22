@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hello! I'm a software engineer with a management background from Portland State University. I have over 2 years of programming experience working with technologies such as React, Node, Rails, and Backbone. I enjoy tackling challenging problems and working with others to build robust systems.
+Hello! I'm a software engineer with a management background from Portland State University. I enjoy tackling challenging problems and working with others to build robust systems.
 
 For an example of my work, check out my latest project, <a href="http://plinkojs.com">Plinko.js</a>.
 
@@ -15,7 +15,11 @@ Recently, I co-created an open-source multiplayer real-time browser-based physic
 
 ![](/assets/gameplay.gif)
 
-<a href="https://joshcnelson.github.io/projects">Click here to see more projects</a>
+### Reaction
+
+Reaction is a partial clone of the popular Trello project management productivity app with CRUD operations on cards and lists, as well as scheduling and tagging. It was designed using React for the front-end, Redux for the in-browser data store, with a Rails back-end API and PostgreSQL database.
+
+<a target='_blank' href='https://rk-reaction.herokuapp.com/'>![](/assets/reaction.gif)</a>
 
 ## Skills
 
